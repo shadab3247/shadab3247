@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shadab shaikh</h1>
 <h3 align="center">Howdy, I'm Shadab Shaikh. I'm a passionate tech lover inspired by imagination. Apart from being an ardent tech enthusiast, I love spending time on design tools and exploring open-source projects. I enjoy tweaking and tinkering with the gadgets I own, and apart from all this, I enjoy spending my time watching content from some of my favourite creators. Playing with new software and apps acts like dopamine for me.
 </h3>
-<img align ="right" alt="Coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE3ZmYxMmYzOTY2M2Q0MjI3ODEzYjEzMDY5N2RjNjczZTkwMWY5NyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align ="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE3ZmYxMmYzOTY2M2Q0MjI3ODEzYjEzMDY5N2RjNjczZTkwMWY5NyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadab3247&label=Profile%20views&color=0e75b6&style=flat" alt="shadab3247" /> </p>
 
